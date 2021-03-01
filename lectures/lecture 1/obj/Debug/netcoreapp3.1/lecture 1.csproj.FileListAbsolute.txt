@@ -1,0 +1,19 @@
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\bin\Debug\netcoreapp3.1\lecture 1.exe
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\bin\Debug\netcoreapp3.1\lecture 1.deps.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\bin\Debug\netcoreapp3.1\lecture 1.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\bin\Debug\netcoreapp3.1\lecture 1.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\bin\Debug\netcoreapp3.1\lecture 1.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\bin\Debug\netcoreapp3.1\lecture 1.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\lecture 1.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\lecture 1_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\lecture 1_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\lecture 1.g.resources
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\lecture 1.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\lecture 1.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\lecture 1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\lecture 1.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\lecture 1.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lecture 1\obj\Debug\netcoreapp3.1\lecture 1.genruntimeconfig.cache
