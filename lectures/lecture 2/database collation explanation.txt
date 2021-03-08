@@ -1,0 +1,12 @@
+Ayşe - if you pick collation accent sensitive (AS)
+and you search for Ayse, then you will get no results
+because it is accent sensitive
+if you pick AI (accent insensitive) then Ayse will return Ayşe as well
+
+if you pick your collation as case sensitive (CS) then if you search for ayşe in your database, you will not get result Ayşe
+
+however if you pick your collation as case insensitive (CI), then AYŞE or ayşe will return all cases
+
+if you dont use nchar then you can not save non-ANSI characters such as Ğ
+
+so to be able to store non-ANSI characters, you have to use n version of character in SQL server

@@ -1,0 +1,21 @@
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.exe
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.deps.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\bin\Debug\netcoreapp3.1\lecture 2.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\lecture 2_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\lecture 2_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.g.resources
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\obj\Debug\netcoreapp3.1\lecture 2.genruntimeconfig.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\bin\Debug\netcoreapp3.1\female_names.txt
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 2\bin\Debug\netcoreapp3.1\male_names.txt
