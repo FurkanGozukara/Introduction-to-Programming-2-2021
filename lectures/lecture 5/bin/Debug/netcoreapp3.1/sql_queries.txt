@@ -1,0 +1,20 @@
+3/15/2021 11:19:24 PM
+select top 500 * from tblStudents order by StudentName asc, studentemail desc
+3/15/2021 11:24:12 PM
+select top 500 * from tblStudents
+3/15/2021 11:24:45 PM
+select top 500 * from tblStudents where StudentName like 'B%'
+3/15/2021 11:25:05 PM
+select top 500 * from tblStudents where StudentName like 'B%E'
+3/15/2021 11:25:24 PM
+select top 500 * from tblStudents where StudentName like 'B%E' or StudentName like '%A'
+3/15/2021 11:26:04 PM
+select top 500 * from tblStudents where StudentName like 'B%E' or StudentName like '%A' and StudentId=9944
+3/15/2021 11:26:22 PM
+select top 500 * from tblStudents where StudentName like 'B%E' or (StudentName like '%A' and StudentId=9944)
+3/15/2021 11:27:53 PM
+select top 500 * from tblStudents
+3/15/2021 11:29:12 PM
+select  top 500 StudentName from tblStudents where StudentName='Furkan'
+3/15/2021 11:29:18 PM
+select top 500 * from tblStudents where StudentName='Furkan'

@@ -1,0 +1,17 @@
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\lecture 5.exe
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\compose_sqlite_table.sql
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\lecture 5.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\lecture 5.deps.json
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\lecture 5.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\lecture 5.pdb
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\System.Data.SQLite.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\System.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\runtimes\win-arm64\native\sni.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\runtimes\win-x64\native\sni.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\runtimes\win-x86\native\sni.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\public lecture 5\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

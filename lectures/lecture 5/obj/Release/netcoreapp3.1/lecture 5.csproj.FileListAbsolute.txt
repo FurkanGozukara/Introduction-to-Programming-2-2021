@@ -1,0 +1,33 @@
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\compose_sqlite_table.sql
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\lecture 5.exe
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\lecture 5.deps.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\lecture 5.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\lecture 5.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\lecture 5.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\lecture 5.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5_Content.g.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5_MarkupCompile.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5_MarkupCompile.lref
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\MainWindow.baml
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5.g.resources
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5.csproj.CopyComplete
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 5\obj\Release\netcoreapp3.1\lecture 5.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+﻿CREATE TABLE "tblStudents" (
+	"StudentId"	INTEGER NOT NULL,
+	"StudentName"	TEXT NOT NULL,
+	"StudentEmail"	TEXT NOT NULL,
+	"IsMale"	INTEGER NOT NULL DEFAULT 0 COLLATE BINARY,
+	"NickName"	TEXT NOT NULL,
+	PRIMARY KEY("StudentId")
+);
