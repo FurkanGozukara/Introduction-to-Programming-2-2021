@@ -1,0 +1,60 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "PMSContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProceduresReturnList": false,
+   "ProjectRootNamespace": "lecture_6",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[tblDiseases]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblDrugs]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblLoginTry]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblPrescriptions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblTreatments]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblUsers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblUserTypes]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-ULH4M26.PMS",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSpatial": false
+}
