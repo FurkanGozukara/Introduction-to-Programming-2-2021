@@ -1,0 +1,16 @@
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\bin\Debug\net5.0\lecture 10 cmd.exe
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\bin\Debug\net5.0\lecture 10 cmd.deps.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\bin\Debug\net5.0\lecture 10 cmd.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\bin\Debug\net5.0\lecture 10 cmd.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\bin\Debug\net5.0\lecture 10 cmd.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\bin\Debug\net5.0\ref\lecture 10 cmd.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\bin\Debug\net5.0\lecture 10 cmd.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\obj\Debug\net5.0\lecture 10 cmd.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\obj\Debug\net5.0\lecture 10 cmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\obj\Debug\net5.0\lecture 10 cmd.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\obj\Debug\net5.0\lecture 10 cmd.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\obj\Debug\net5.0\lecture 10 cmd.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\obj\Debug\net5.0\lecture 10 cmd.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\obj\Debug\net5.0\ref\lecture 10 cmd.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\obj\Debug\net5.0\lecture 10 cmd.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 10 cmd\obj\Debug\net5.0\lecture 10 cmd.genruntimeconfig.cache
