@@ -1,0 +1,16 @@
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\obj\Debug\net5.0\lecture 11 cmdv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\obj\Debug\net5.0\lecture 11 cmdv2.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\obj\Debug\net5.0\lecture 11 cmdv2.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\obj\Debug\net5.0\lecture 11 cmdv2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\bin\Debug\net5.0\lecture 11 cmdv2.exe
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\bin\Debug\net5.0\lecture 11 cmdv2.deps.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\bin\Debug\net5.0\lecture 11 cmdv2.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\bin\Debug\net5.0\lecture 11 cmdv2.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\bin\Debug\net5.0\lecture 11 cmdv2.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\bin\Debug\net5.0\ref\lecture 11 cmdv2.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\bin\Debug\net5.0\lecture 11 cmdv2.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\obj\Debug\net5.0\lecture 11 cmdv2.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\obj\Debug\net5.0\lecture 11 cmdv2.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\obj\Debug\net5.0\ref\lecture 11 cmdv2.dll
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\obj\Debug\net5.0\lecture 11 cmdv2.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture 11 cmdv2\obj\Debug\net5.0\lecture 11 cmdv2.genruntimeconfig.cache
