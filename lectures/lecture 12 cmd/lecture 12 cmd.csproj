@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>lecture_12_cmd</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="names_list.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="names_list.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
