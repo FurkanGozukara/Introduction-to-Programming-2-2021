@@ -1,0 +1,128 @@
+Input string was not in a correct format.
+
+Stack
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at lecture14.MainWindow.<>c.<btnTestUnhandledExceptionInsideATask_Click>b__4_0() in C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\MainWindow.xaml.cs:line 56
+   at System.Threading.Tasks.Task.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__277_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+
+****UnobservedTaskException*****
+
+Input string was not in a correct format.
+
+Stack
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at lecture14.MainWindow.CrawlingCheckTimer_Tick(Object sender, EventArgs e) in C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\MainWindow.xaml.cs:line 81
+   at System.Windows.Threading.DispatcherTimer.FireTick(Object unused)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+
+****DispatcherUnhandledExceptionEventHandler*****
+
+Input string was not in a correct format.
+
+Stack
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at lecture14.MainWindow.CrawlingCheckTimer_Tick(Object sender, EventArgs e) in C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\MainWindow.xaml.cs:line 81
+   at System.Windows.Threading.DispatcherTimer.FireTick(Object unused)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   at System.Windows.Threading.DispatcherOperation.InvokeInSecurityContext(Object state)
+   at MS.Internal.CulturePreservingExecutionContext.CallbackWrapper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at MS.Internal.CulturePreservingExecutionContext.Run(CulturePreservingExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Threading.DispatcherOperation.Invoke()
+   at System.Windows.Threading.Dispatcher.ProcessQueue()
+   at System.Windows.Threading.Dispatcher.WndProcHook(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   at MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+   at MS.Win32.UnsafeNativeMethods.DispatchMessage(MSG& msg)
+   at System.Windows.Threading.Dispatcher.PushFrameImpl(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.PushFrame(DispatcherFrame frame)
+   at System.Windows.Threading.Dispatcher.Run()
+   at System.Windows.Application.RunDispatcher(Object ignore)
+   at System.Windows.Application.RunInternal(Window window)
+   at System.Windows.Application.Run()
+   at lecture14.App.Main()
+
+****UnhandledExceptionEventHandler*****
+
+Object reference not set to an instance of an object.
+
+Stack
+   at lecture14.MainWindow.startCrawlingProcess(String srUrl) in C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\MainWindow.xaml.cs:line 145
+
+****startCrawlingProcess*****
+
+Invalid URI: The hostname could not be parsed.
+
+Stack
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri.CreateUri(Uri baseUri, String relativeUri, Boolean dontEscape)
+   at lecture14.MainWindow.startCrawlingProcess(String srUrl) in C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\MainWindow.xaml.cs:line 161
+
+****startCrawlingProcess*****
+
+Invalid URI: The hostname could not be parsed.
+
+Stack
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri.CreateUri(Uri baseUri, String relativeUri, Boolean dontEscape)
+   at lecture14.MainWindow.startCrawlingProcess(String srUrl) in C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\MainWindow.xaml.cs:line 161
+
+****startCrawlingProcess*****
+
+Invalid URI: The hostname could not be parsed.
+
+Stack
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri.CreateUri(Uri baseUri, String relativeUri, Boolean dontEscape)
+   at lecture14.MainWindow.startCrawlingProcess(String srUrl) in C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\MainWindow.xaml.cs:line 161
+
+****startCrawlingProcess*****
+
+Invalid URI: The hostname could not be parsed.
+
+Stack
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri.CreateUri(Uri baseUri, String relativeUri, Boolean dontEscape)
+   at lecture14.MainWindow.startCrawlingProcess(String srUrl) in C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\MainWindow.xaml.cs:line 161
+
+****startCrawlingProcess*****
+
+Invalid URI: The hostname could not be parsed.
+
+Stack
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri.CreateUri(Uri baseUri, String relativeUri, Boolean dontEscape)
+   at lecture14.MainWindow.startCrawlingProcess(String srUrl) in C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\MainWindow.xaml.cs:line 172
+
+****startCrawlingProcess*****
+
+Invalid URI: The hostname could not be parsed.
+
+Stack
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri.CreateUri(Uri baseUri, String relativeUri, Boolean dontEscape)
+   at lecture14.MainWindow.startCrawlingProcess(String srUrl) in C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\MainWindow.xaml.cs:line 172
+
+****startCrawlingProcess*****
+

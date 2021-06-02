@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKNL9TWhdSMWWzBMj8kOK34clXVwU09OT/KkrTT33w9tZ3PVtVTtEpt7kiCxuh+44fYMrq7g7RUbZvPTbgrCjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Furkan Gözükara\\Desktop\\introduction to programming II - 2021\\lectures\\lecture14\\lecture14.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan Gözükara\\.nuget\\packages\\htmlagilitypack\\1.11.33\\htmlagilitypack.1.11.33.nupkg.sha512"
+  ],
+  "logs": []
+}

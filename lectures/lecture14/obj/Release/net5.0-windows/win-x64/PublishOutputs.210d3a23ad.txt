@@ -1,0 +1,2 @@
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\bin\Release\net5.0-windows\publish\lecture14.pdb
+C:\Users\Furkan Gözükara\Desktop\introduction to programming II - 2021\lectures\lecture14\bin\Release\net5.0-windows\publish\lecture14.exe
