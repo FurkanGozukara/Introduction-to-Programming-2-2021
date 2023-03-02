@@ -1,4 +1,4 @@
-#C# Programming (Advanced/Intermediate) Full Course 👨‍💻 (FREE)
+# C# Programming (Advanced/Intermediate) Full Course 👨‍💻 (FREE)
 
 Remastered videos of this course are available on https://www.youtube.com/@CodeInNet
 
