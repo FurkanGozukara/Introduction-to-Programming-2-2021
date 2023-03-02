@@ -1,16 +1,17 @@
-# Introduction-to-Programming-2-2021
-Toros University - Software Engineering Deparment - CSE108 / SWE102 Introduction to Programming II - 2021 
+#C# Programming (Advanced/Intermediate) Full Course 👨‍💻 (FREE)
 
-Discord Channel of the Course for every kind of questions and answers : https://discord.gg/6Mrb8MwteQ
+Remastered videos of this course are available on https://www.youtube.com/@CodeInNet
 
-This repository is dedicated to the Introduction to Programming II (Previously Named as Advanced Programming) With C# Course 2021 Toros University, Software Engineering Department
+The remastered video playlist : https://www.youtube.com/playlist?list=PLdCdTIJgqkdGHoXqOVInDRQ5WwYFmx27e
 
-The course code is CSE108 / SWE102
+Original videos of this course are available on https://www.youtube.com/@SECourses
 
-Course Teacher is PhD Furkan Gözükara, Room: A015
+The original video playlist : https://www.youtube.com/playlist?list=PL_pbwdIyffslHaBdS3RUW26RKzSjkl8m4
 
-Due to pandemic you can contact me by email and from discord anytime you wish. Discord is better
+Please join Discord and ask any questions : https://discord.com/servers/software-engineering-courses-secourses-772774097734074388
 
-All of the announcements including homeworks and projects about the course will be published here
+If I have been of assistance to you and you would like to show your support for my work, please consider becoming a patron on 🥰 https://www.patreon.com/SECourses
 
-furkan.gozukara@toros.edu.tr
+Each Lecture Source Code is available in this repo. You can use git checkout to see each revision of the code.
+
+If you need help please join discord and ask there by mentioning me (Dr. Furkan Gözükara)
