@@ -6,7 +6,7 @@ The remastered video playlist : https://www.youtube.com/playlist?list=PLdCdTIJgq
 
 Original videos of this course are available on https://www.youtube.com/@SECourses
 
-The original video playlist : https://www.youtube.com/playlist?list=PL_pbwdIyffslHaBdS3RUW26RKzSjkl8m4
+The original video playlist : https://www.youtube.com/playlist?list=PL_pbwdIyffsnAWtgk4ja3HN3xgMKF7BOE
 
 Please join Discord and ask any questions : https://discord.com/servers/software-engineering-courses-secourses-772774097734074388
 
